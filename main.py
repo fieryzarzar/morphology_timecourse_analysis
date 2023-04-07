@@ -10,7 +10,7 @@ from file_utils import *
 from metrics import *
 
 data_folder = os.getcwd()
-data_folder = os.path.join('C:',os.sep,'Users','zchor','D-serine dynamics analysis 2')
+data_folder = 'C:\\Users\\zchor\\OneDrive - McGill University\\Zahraa Documents\\PhD\\Manuscripts\\D-serine Postsynaptic\\20211010 Resubmission to JNeuro\\20220127 Dynamics Analysis\\Dynamo Files'
 save_dir = os.getcwd()
 files = glob.glob(os.path.join(data_folder,'*.csv'))
 fnames = [os.path.basename(f) for f in files]

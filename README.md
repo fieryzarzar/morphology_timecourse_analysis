@@ -6,4 +6,4 @@ Run ```git clone  https://github.com/fieryzarzar/morphology_timecourse_analysis`
 
 # How to run
 Change line 13 to your folder directory with .csv exports from MATLAB Dynamo.
-Run ```python main.py``` from anaconda prompt. (Note: ensure you are running it from the current folder directory where this repository was cloned to!)
+Run ```python main.py``` from anaconda prompt.
